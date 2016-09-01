@@ -33,6 +33,7 @@
                         <li><a href=" {{ route('tags.index') }}">Tags</a></li>
                         <li role="separator" class="divider"></li>
                         <li><a href="{{ route('logout') }}">Logout</a></li>
+                        <li><a href="{{ route('logout') }}">Logout</a></li>
                     </ul>
                 </li>
 
